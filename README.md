@@ -1,2 +1,2 @@
 # calculator
-simple calc shit
+calculates stuff and that
